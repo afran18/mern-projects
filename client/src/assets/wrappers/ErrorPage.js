@@ -26,6 +26,9 @@ const Wrapper = styled.main`
     color: var(--primary-500);
     text-transform: capitalize;
   }
+  .btn {
+    padding: 0.75rem 1rem;
+  }
 `;
 
 export default Wrapper;
